@@ -190,7 +190,3 @@ This is a hackathon prototype, not a validated remote sensing product:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Author
-
-Developed by Dhanush as part of a submission to the Bharatiya Antariksha Hackathon. Issues and pull requests are welcome.
