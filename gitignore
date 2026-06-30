@@ -1,0 +1,62 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+*.egg
+build/
+dist/
+
+# --- Virtual Environment ---
+venv/
+env/
+ENV/
+.venv/
+
+# --- Flask ---
+instance/
+.flaskenv
+
+# --- Project Runtime / Generated Data ---
+uploads/*
+masks/*
+outputs/*
+results/*
+temp_images/*
+temp_masks/*
+!uploads/.gitkeep
+!masks/.gitkeep
+!outputs/.gitkeep
+!results/.gitkeep
+!temp_images/.gitkeep
+!temp_masks/.gitkeep
+
+# --- Model Weights / Large Files ---
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.safetensors
+models/
+weights/
+.cache/
+
+# --- OS / Editor ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# --- Logs ---
+*.log
+logs/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Environment / Secrets ---
+.env
+*.env.local
