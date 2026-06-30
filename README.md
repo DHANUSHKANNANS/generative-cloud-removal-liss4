@@ -90,20 +90,6 @@ flowchart LR
 - Output image saving
 - Auto-generated comparison figure
 
-## Screenshots
-
-Add screenshots here before submission. Replace the placeholders below with actual images saved in `assets/`.
-
-| Original Image | Cloud Mask | Reconstructed Output |
-|---|---|---|
-| ![original](assets/screenshot_original.png) | ![mask](assets/screenshot_mask.png) | ![output](assets/screenshot_output.png) |
-
-A short screen recording of the application in use can also be added:
-
-```markdown
-![demo](assets/demo.gif)
-```
-
 ## Tech Stack
 
 | Component | Technology |
